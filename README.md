@@ -1,1 +1,1 @@
-<h1>Top School</h1>
+<h1><b>Top School</b></h1>

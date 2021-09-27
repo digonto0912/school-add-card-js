@@ -1,6 +1,8 @@
+/* span color */
 .span-color-white{
     color:white;
 }
+/* header box style  */
 .topHeader{
     background-color: rgb(146, 146, 255);
     border: 3px solid rgb(41, 41, 255);
